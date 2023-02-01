@@ -1,0 +1,32 @@
+
+header{
+    text-align: center;
+    margin:auto;
+}
+
+main{
+    margin-left: 500px;
+    margin-right: 500px;
+    word-wrap: normal;
+}
+
+.focaccia{
+    width: 100%;
+}
+.rosso{
+    color:red;
+}
+
+.bordosinistro{
+    border-left: 1px, orange;
+}
+
+
+
+.retrogiallo{
+    background-color: rgb(233, 233, 157);
+    border-top: darkgoldenrod, 1px;
+    padding: 5px;
+}
+
+.
