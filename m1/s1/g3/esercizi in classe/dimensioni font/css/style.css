@@ -1,0 +1,26 @@
+/*body{
+    font-size: 20px;
+}
+*/
+
+:root{
+    font-size:25px
+}
+
+#t1{
+    font-size: 1rem;
+    color: #fc7
+}
+
+#t2{
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.5)
+    font-family: 'Roboto', sans-serif;
+}
+
+#parent{
+    font-size: 50px
+}
+#t3 {
+font-size: 1em;
+}
